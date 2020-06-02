@@ -7,6 +7,7 @@
 * {
   box-sizing: border-box;
   /* applying to all the elements */
+  /* assures that the box size is fixed even when padding is added */
 }
 
 body {
